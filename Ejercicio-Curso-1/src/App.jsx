@@ -21,7 +21,7 @@ function App() {
   return (
     <div className="container">
       <form onSubmit={(e) => onSubmit(e)} className="container form">
-        <h1>LOGIN</h1>
+        <h1>REGISTRO</h1>
         {inputConstructor.map((ic) => {
           return (
             <GenericInput
