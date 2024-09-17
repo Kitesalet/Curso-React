@@ -1,5 +1,6 @@
 body {
   font-family: "Roboto", sans-serif;
+  color: rgb(21, 20, 20);
 }
 
 .container {
@@ -30,7 +31,9 @@ body {
 }
 
 .input {
-  background-color: rgba(77, 215, 243, 0.132);
+  background-color: rgba(151, 224, 239, 0.132);
+  border: 1px solid rgb(230, 216, 216);
+  border-radius: 5px;
 }
 
 .input:focus {
