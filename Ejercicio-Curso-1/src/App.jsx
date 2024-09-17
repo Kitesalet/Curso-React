@@ -6,7 +6,7 @@ function App() {
   function onSubmit(e) {
     e.preventDefault();
 
-    alert("Couldn't log in because this is incomplete ;(");
+    alert("Vos sos dios? ( Lease con la voz de Alejo )");
   }
 
   const inputConstructor = [
